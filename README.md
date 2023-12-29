@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdelrhman Khaled
+- 👀 I’m an undergraduated student in communication department
+- 🌱 I’m student at shoubra faculty of engineering
+- 💞️ I’m looking to be a automotive embedded software enginner
