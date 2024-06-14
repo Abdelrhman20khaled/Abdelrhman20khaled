@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Khaled</h1>
 <h3 align="center">A passionate Programmer from Egypt</h3>
 <p align="center">I am an undergraduate student pursuing a degree in communication and computer engineering at Benha University.
-My academic journey has sparkle a passion for embedded systems, with a particular focus on embedded applications, automotive technology, and mobile networks</p>
+My academic journey has sparkle a passion for embedded systems, with a particular focus on embedded applications, automotive technology, and telecommunications</p>
 <p align="center"> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | C | C++ -green.svg" alt="supun nanayakkara's languages" /> -->
 </p>
@@ -54,40 +54,26 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools:</h3>
 
-- Backend
-<p align="left">
+- Embedded Systems
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=js,html5,css3" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
   </a>
 </p>
 
