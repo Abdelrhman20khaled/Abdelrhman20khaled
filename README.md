@@ -69,7 +69,7 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,eclipse,matlab,ai" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,eclipse,matlab,arduino,ai" />
   </a>
 </p>
 
