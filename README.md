@@ -32,7 +32,7 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 
 - 🔭 I’m currently working on **My Graduation Project (Automotive Embedded Systems)**
 
-- 🌱 I’m currently learning **Embedded Linux and Telecommunication**
+- 🌱 I’m currently learning **Hardware Design, Embedded Linux, and Telecommunication**
 
 - 💬 Ask me about **C, Cpp, Python, Java, Javascript, and RUST**
 
