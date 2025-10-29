@@ -37,7 +37,7 @@
 
 - I’m currently learning **Hardware Design, Embedded Systems, and IoT/IIoT**
 
-- Ask me about **C, Cpp, Python, and Javascript**
+- Ask me about **C, C++, Python, and Javascript**
 
 - How to reach me **abdelrahmankh2025@gmail.com**
 
