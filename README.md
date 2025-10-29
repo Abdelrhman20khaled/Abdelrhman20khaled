@@ -51,11 +51,10 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 <h3 align="left">Skills and Tools:</h3>
 
 - Hardware Design
-<p align="left">
   - Altium Designer
   - Kicad
   - CST
-</p>
+
 
 - Embedded Systems
 <p align="left">
