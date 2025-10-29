@@ -34,7 +34,7 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 
 - I’m currently learning **Hardware Design, Embedded Systems, and IoT/IIoT**
 
-- Ask me about **C, Cpp, Python, Java, Javascript, and RUST**
+- Ask me about **C, Cpp, Python, and Javascript**
 
 - How to reach me **abdelrahmankh2025@gmail.com**
 
@@ -53,7 +53,7 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 - Embedded Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
   </a>
 </p>
 
