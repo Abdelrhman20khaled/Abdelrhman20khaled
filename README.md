@@ -51,9 +51,9 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 <h3 align="left">Skills and Tools:</h3>
 
 - Hardware Design
-  - Altium Designer
-  - Kicad
-  - CST
+  - Altium Designer: Power boards, mixed-signal boards, and high-speed design
+  - KiCad: Power boards, mixed-signal boards, and high-speed design
+  - CST Studio Suite: PDN analysis, high-speed design preparation, and antenna design
 
 
 - Embedded Systems
