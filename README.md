@@ -2,10 +2,12 @@
 <img align="center" src="AbdelRahman_Khaled.png" width="100%" style="display:inline;">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
+Junior Hardware Design Engineer. 
+
 <h1 align="center">Hi 👋, I'm Abdelrahman Khaled</h1>
 <h3 align="center">A passionate Communication and Electronics Engineer</h3>
-<p align="center">I am an undergraduate student pursuing a degree in communication and computer engineering at Benha University.
-My academic journey has sparkle a passion for embedded systems, with a particular focus on embedded applications, automotive technology, and telecommunications</p>
+<p align="center"> R&D Hardware Design Engineer.
+Enthusiastic about cutting-edge technologies. Focused on R&D in hardware design and embedded application</p>
 <p align="center"> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | C | C++ -green.svg" alt="supun nanayakkara's languages" /> -->
 </p>
