@@ -30,15 +30,13 @@ My academic journey has sparkle a passion for embedded systems, with a particula
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **My Graduation Project (Automotive Embedded Systems)**
+- Currently working as **R&D Hardware Design Engineer**
 
-- 🌱 I’m currently learning **Hardware Design, Embedded Linux, and Telecommunication**
+- I’m currently learning **Hardware Design, Embedded Systems, and IoT/IIoT**
 
-- 💬 Ask me about **C, Cpp, Python, Java, Javascript, and RUST**
+- Ask me about **C, Cpp, Python, Java, Javascript, and RUST**
 
-- 📫 How to reach me **abdelrahmankh2025@gmail.com**
-
-- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1Qqva21Wo7wYWd_eXkVyNbekf6-OYqwwf/view?usp=drivesdk)
+- How to reach me **abdelrahmankh2025@gmail.com**
 
 <br>
 
